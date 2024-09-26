@@ -1,0 +1,28 @@
+.footer {
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(134, 42, 238);
+}
+.header__nav {
+    width: 20%;
+    background-color: aquamarine;
+}
+.content__section {
+    width: 20%;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: rgb(181, 231, 200);
+}
+.content_title--primary {
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(194, 161, 233);
+}
+.content_text--secondary {
+    width: 50%;
+    margin: 0 auto;
+    padding: 60px;
+    background-color: rgb(243, 145, 194);
+}
